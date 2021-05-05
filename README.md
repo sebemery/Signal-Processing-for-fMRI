@@ -5,3 +5,9 @@
 
 - Preprocessing
 - GLM
+
+## Laboratory 2
+
+- Partial least square correlation
+- Group-ICA
+- Tensor-ICA
