@@ -11,3 +11,8 @@
 - Partial least square correlation
 - Group-ICA
 - Tensor-ICA
+
+## Laboratory 3
+
+- Brain connectonomics
+- Support vector machine
